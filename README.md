@@ -1,5 +1,5 @@
 # Function Frontend
-In Course of Metacrafter ETH+AVAX , I get a project to create a simple contract by using 2-5 function then I have to show that functions values in the FRONTENT of the APPLICATION.
+In Course of Metacrafter ETH+AVAX , I get a project to create a simple contract by using 2-5 function then I have to show that functions values in the FRONTEND of the APPLICATION.
 
 
 ## Description
